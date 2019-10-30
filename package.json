@@ -1,0 +1,24 @@
+{
+  "name": "musictransfer",
+  "version": "1.0.0",
+  "description": "Transfer music library from Spotify to Youtube Music",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhijith2893/MusicTransfer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhijith2893/MusicTransfer/issues"
+  },
+  "homepage": "https://github.com/Abhijith2893/MusicTransfer#readme"
+}
